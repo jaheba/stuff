@@ -3,7 +3,7 @@
 
 Rust is an elegant language, that is quite different from many other popular languages. For example, instead of using classes and inheritance, Rust has a trait-based system. However I believe, that many programmers new to Rust (including myself) are unfamiliar with common Rust patterns.
 
-In this post, I want to discuss the *newtype*-pattern, as well as the `From` and `Input` traits , which help with conversion between types.
+In this post, I want to discuss the *newtype*-pattern, as well as the `From` and `Into` traits , which help with conversion between types.
 
 ---
 
